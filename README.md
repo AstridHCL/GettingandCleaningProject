@@ -10,7 +10,7 @@ with all the files.
 ======================
 The Lecture Variables
 ======================
-# have all the read data
+Have all the read data
 
 
 activity_labels <- read activity_labels.txt
