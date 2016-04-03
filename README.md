@@ -3,7 +3,7 @@ Getting and Cleaning data course project
 ==========================================================================
 Astrid Correa
 =============
-
+kdkkdkds
 The Script is programed for just run and get the file, your working directory must be inside of UCI HAR Dataset
 with all the files.
 
